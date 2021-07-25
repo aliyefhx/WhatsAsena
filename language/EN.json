@@ -225,7 +225,7 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Meenakshi  is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Bot!*\n\nChanges:\n```",
+            "NEW_UPDATE": "*New update available for Bot!*\n \n*Please ask support group before update,Otherwise get to change error*\n *https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR*\n \nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "Updating...👩🏻‍🔧Please wait...",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
